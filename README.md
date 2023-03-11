@@ -8,7 +8,7 @@ Multiple regressor like Linear Regression, RandomForestRegressor, Lasso, XGBoost
 
 Deployed in Railway.app.
 
-Link to the application : https://sales-prediction-production.up.railway.app/
+Link to the application : https://store-sales-prediction.up.railway.app/
 
 *************************************************
 
